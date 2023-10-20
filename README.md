@@ -22,7 +22,7 @@ Lumina is the gateway to seamless, intuitive control of smart lighting systems. 
 - **Voice Control Integration**: Seamlessly integrate with popular voice assistants like Alexa and Google Assistant for a hands-free experience
 - **Multi-Room Coordination**: Extend the music-synced lighting experience throughout your home, with the ability to synchronize multiple rooms or zones, making your entire space come alive with sound and light.
 
-## Exclusive Features 
+## Upcoming Features
 
 ### Dynamic Music Sync
 
@@ -42,3 +42,15 @@ Introducing Adaptive Ambient Lighting, a groundbreaking feature that seamlessly 
 - **Automatic Brightness Matching**: Experience lighting that dynamically adjusts to the brightness of your computer screen. As your screen gets brighter or dimmer, your smart lights follow suit, reducing eye strain and enhancing visual comfort.
 
 - **Accent Color Integration**: Adaptive Ambient Lighting can detect and mimic the dominant accent color on your screen, offering a cohesive and aesthetically pleasing visual experience.
+
+## Compatibility
+
+The following feature does not come with Lumina, but instead are standalone softwares that works together with Lumina.
+
+### Stella AI
+
+- **Voice Commands**: Interact with your lighting effortlessly by using voice commands. Just tell your AI assistant to set the perfect lighting scene, and watch it come to life.
+
+### Ultima
+
+- **Ecosystem**: Control your smart lighting systems alongside your personal devices in one control center.
